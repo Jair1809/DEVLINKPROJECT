@@ -1,87 +1,80 @@
-# Welcome to React Router!
 
-A modern, production-ready template for building full-stack React applications using React Router.
+# FindMyJobLink
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+-----
 
-## Features
+## 💻 Sobre o Projeto
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+O **FindMyJobLink** é uma landing page projetada para reunir todos os links importantes de um desenvolvedor em um só lugar, de forma simples e organizada. É a solução perfeita para quem quer compartilhar seu portfólio, perfis sociais e projetos de maneira profissional e acessível.
 
-## Getting Started
+O projeto foi desenvolvido como parte de um desafio da plataforma Sujeito programador (Matheus Fraga), com foco em aprimorar habilidades em **HTML**, **CSS** e **JavaScript** (React).
 
-### Installation
+-----
 
-Install the dependencies:
+## ✨ Tecnologias Utilizadas
 
-```bash
-npm install
-```
+  * **HTML:** Estruturação da página.
+  * **CSS:** Estilização e responsividade.
+  * **JavaScript:** Interatividade da página, como o modo escuro/claro.
 
-### Development
+-----
 
-Start the development server with HMR:
+## ⚙️ Funcionalidades
 
-```bash
-npm run dev
-```
+  * **Design Responsivo:** A página se adapta perfeitamente a diferentes tamanhos de tela (desktops, tablets e celulares).
 
-Your application will be available at `http://localhost:5173`.
+  * **Links de Perfil:** Seções dedicadas para links de redes sociais, portfólio e outras plataformas relevantes.
 
-## Building for Production
+-----
 
-Create a production build:
+## 🚀 Como Executar o Projeto
 
-```bash
-npm run build
-```
+Para visualizar e rodar o projeto localmente, siga os passos abaixo:
 
-## Deployment
+1.  **Clone este repositório:**
 
-### Docker Deployment
+    ```bash
+    git clone https://github.com/Jair1809/DEVLINKPROJECT.git
+    ```
 
-To build and run using Docker:
+2.  **Navegue até o diretório do projeto:**
 
-```bash
-docker build -t my-app .
+    ```bash
+    cd DEVLINKPROJECT
+    ```
 
-# Run the container
-docker run -p 3000:3000 my-app
-```
+3.  **Abra o arquivo `index.html` no seu navegador.** Não é necessário um servidor web, pois o projeto é puramente front-end.
 
-The containerized application can be deployed to any platform that supports Docker, including:
+-----
 
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
+## 🔗 Demonstração
 
-### DIY Deployment
+  * **Link para o Deploy da sua Aplicação:** `[]`
 
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
+-----
 
-Make sure to deploy the output of `npm run build`
+## 🖼️ Screenshots
 
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
 
-## Styling
 
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
+*Visão geral da aplicação em um desktop.*
 
----
+*Visão geral da aplicação em um dispositivo móvel.*
 
-Built with ❤️ using React Router.
+-----
+
+## 📝 Licença
+
+Este projeto está sob a licença **MIT**. Veja o arquivo `LICENSE` para mais detalhes.
+
+-----
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas\! Se você encontrou um bug ou tem uma sugestão de melhoria, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+
+-----
+
+## 🧑‍💻 Autor
+
+Feito com ❤️ por **[Jair Dias](https://www.google.com/search?q=https://github.com/Jair1809)**.
